@@ -1,0 +1,100 @@
+
+body{
+	background-color: #EDEEF0;
+}
+
+.col-md-12.head{
+	background-color: #507299;
+	height: 45px;
+}
+
+
+#search{
+	margin-top: 10px;
+	border: none;
+	border-radius: 13px;
+	width: 210px;
+	height: 25px;
+	outline: none;
+	padding-left: 10px;
+	background-color: #305075; 
+	color: #aaa;
+}
+#search:hover{
+	background-color: white;
+}
+#registration{
+	margin-top: 10px;
+	color:white;
+	background-color: #507299;
+
+}
+.registrationButton{
+	background-color: #507299;
+	border: none;
+	margin-top:-10px;
+	height: 45px;
+}
+.registrationButton:hover{
+	background-color: #486991;
+
+}
+
+
+.loginDiv{
+	height: 200px;
+	width: 200px;
+	padding-top: 20px;
+	
+}
+.content{
+	margin-top: 15px; 
+	background-color: white;
+	height: 500px;
+	border:solid 0.1px;
+	border-color: #ddd;
+	
+}
+.fake{
+	width: 160px;
+}
+
+#login{
+	margin-left: -15px;
+	}
+
+.textEmail{
+	padding-top: 15px;
+}
+.textPass{
+	padding-top: 15px;
+}
+
+#form{
+	background-color: #FAFFBD;
+	border: solid 0.1px; 
+	border-color: #ccc;
+	outline: none;
+	margin-top: 5px;
+	padding-top: 5px;
+	padding-bottom:   5px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+#form:hover{
+	background-color: white;
+}
+.loginButton{
+	margin-left: -15px; 
+	margin-top: 15px; 
+	height: 35px;
+	width: 180px;
+	background-color: #507299;
+	border:none;
+}
+
+
+.loginButton:hover{
+	background-color: #6888AD;
+}

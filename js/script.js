@@ -1,0 +1,3 @@
+function clik() {
+	alert("clicked");
+}
